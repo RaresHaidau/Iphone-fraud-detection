@@ -1,1 +1,1 @@
-This is a fraud detection for Iphone sales announcements
+This is a fraud detection for Iphone sales announcements.
