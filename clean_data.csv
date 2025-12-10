@@ -1,0 +1,297 @@
+phone_model,memory_size,condition,number_of_photos,publisher_rating,publisher_num_ratings,publisher_join_date,clean_price,price_ratio,fraud_flag
+iPhone 1st gen,256,Utilizat,3,4.7,29,octombrie 2023,6500.0,1.4207650273224044,0
+iPhone 1st gen,512,Utilizat,2,5.0,55,iulie 2020,7300.0,1.0,0
+iPhone 13,128,Utilizat,5,4.7,29,octombrie 2023,1600.0,1.0,0
+iPhone 12 Mini,128,Utilizat,5,4.7,29,octombrie 2023,700.0,0.8235294117647058,1
+iPhone 13 Pro,256,Utilizat,5,4.7,29,octombrie 2023,2100.0,1.024390243902439,0
+iPhone 4,0,Utilizat,8,1.7,3,decembrie 2012,180.0,1.0,1
+iPhone 1st gen,128,Utilizat,5,5.0,55,iulie 2020,2300.0,1.0,0
+iPhone 1st gen,64,Utilizat,5,5.0,55,iulie 2020,900.0,1.3846153846153846,0
+iPhone 13 Pro Max,128,Utilizat,5,4.7,29,octombrie 2023,2100.0,1.05,0
+iPhone 15 Pro,128,Nou,8,5.0,1,martie 2021,2600.0,1.0,0
+iPhone 15 Pro,128,Utilizat,5,4.7,29,octombrie 2023,2700.0,1.0,0
+iPhone 16 Pro,256,Nou,7,5.0,1,martie 2021,3600.0,0.9171974522292994,0
+iPhone 1st gen,0,Nou,2,5.0,340,octombrie 2013,7499.0,1.0563459642203128,1
+iPhone 15 Pro Max,256,Utilizat,5,4.7,29,octombrie 2023,3600.0,1.0,0
+iPhone 15,128,Utilizat,5,4.7,29,octombrie 2023,2400.0,1.0437051532941943,0
+iPhone 12,64,Utilizat,7,0.0,0,august 2012,870.0,0.967741935483871,1
+iPhone 16 Pro,128,Utilizat,5,4.7,29,octombrie 2023,3900.0,1.0834838171968328,0
+iPhone 15 Pro,128,Utilizat,7,0.0,0,septembrie 2025,2599.0,0.9625925925925926,1
+iPhone 12 Pro,256,Utilizat,4,4.7,29,octombrie 2023,1400.0,0.875,1
+iPhone 1st gen,0,Utilizat,3,0.0,0,noiembrie 2025,300.0,0.07792207792207792,1
+iPhone 16 Pro Max,256,Utilizat,5,4.7,29,octombrie 2023,4400.0,1.035294117647059,0
+iPhone 13 Pro,0,Utilizat,1,0.0,0,noiembrie 2016,500.0,0.38461538461538464,1
+iPhone 15,128,Utilizat,5,4.7,29,octombrie 2023,2400.0,1.0437051532941943,0
+iPhone 15,128,Utilizat,3,4.8,720,iunie 2018,1900.0,0.8262665796912372,0
+iPhone 14 Pro,0,Utilizat,2,5.0,2,octombrie 2025,2600.0,1.0,1
+iPhone 15,0,Nou,3,5.0,340,octombrie 2013,2999.0,1.0,0
+iPhone 14 Pro,128,Utilizat,5,4.7,29,octombrie 2023,2550.0,1.02,0
+iPhone 6,16,Utilizat,5,0.0,0,noiembrie 2018,150.0,1.0,1
+iPhone 1st gen,256,Utilizat,5,5.0,55,iulie 2020,3300.0,0.7213114754098361,0
+iPhone 12,0,Utilizat,6,0.0,0,septembrie 2025,1000.0,1.1904761904761905,1
+iPhone 15,0,Utilizat,6,5.0,1,decembrie 2016,1899.0,0.8832558139534884,1
+iPhone 15,128,Nou,7,0.0,0,septembrie 2025,1999.0,0.783921568627451,1
+iPhone 15 Pro,128,Utilizat,6,0.0,0,septembrie 2025,2399.0,0.8885185185185185,1
+iPhone 16 Pro,256,Utilizat,3,4.2,5,noiembrie 2023,3900.0,1.0,0
+iPhone 15,128,Nou,5,5.0,3,februarie 2024,2550.0,1.0,0
+iPhone 13 Mini,128,Utilizat,3,5.0,2,iunie 2025,1020.0,0.8429752066115702,0
+iPhone 14 Pro,128,Utilizat,2,5.0,2,octombrie 2025,2500.0,1.0,0
+iPhone 17 Pro Max,256,Nou,1,4.9,92,noiembrie 2021,7000.0,1.0144927536231885,1
+iPhone 13 Pro Max,128,Utilizat,2,5.0,1,februarie 2023,1098.0,0.549,1
+iPhone X,256,Utilizat,4,4.7,39,mai 2024,500.0,1.0,0
+iPhone 13 Pro,128,Utilizat,5,4.7,29,octombrie 2023,1700.0,0.85,1
+iPhone 14 Pro,128,Utilizat,4,4.7,39,mai 2024,1800.0,0.72,0
+iPhone 17,0,Utilizat,4,4.5,251,septembrie 2020,4500.0,1.0,0
+iPhone 16 Pro,256,Nou,4,5.0,13,iunie 2013,3650.0,0.9299363057324841,0
+iPhone 13 Pro,128,Utilizat,5,4.7,29,octombrie 2023,1900.0,0.95,0
+iPhone 15 Plus,256,Utilizat,7,0.0,0,august 2014,2200.0,1.0,1
+iPhone 16 Pro Max,256,Utilizat,5,4.7,29,octombrie 2023,4400.0,1.035294117647059,0
+iPhone 14 Pro,128,Utilizat,5,5.0,31,ianuarie 2022,2749.0,1.0996,0
+iPhone 16 Pro Max,256,Nou,5,0.0,0,iunie 2019,4599.0,0.9019415571680721,1
+iPhone 17 Pro,512,Nou,2,5.0,61,februarie 2019,6300.0,0.84,1
+iPhone 15 Pro Max,256,Nou,3,4.7,42,martie 2017,3200.0,1.0,0
+iPhone 11,128,Utilizat,5,4.7,29,octombrie 2023,800.0,0.9696969696969697,0
+iPhone 14 Pro,128,Utilizat,5,4.7,29,octombrie 2023,2550.0,1.02,0
+iPhone 16 Plus,128,Utilizat,8,0.0,0,septembrie 2025,1799.0,1.0,1
+iPhone 15,128,Utilizat,5,4.7,29,octombrie 2023,2400.0,1.0437051532941943,0
+iPhone 1st gen,256,Utilizat,5,5.0,55,iulie 2020,4400.0,0.9617486338797814,0
+iPhone 14 Pro,128,Utilizat,5,4.7,29,octombrie 2023,2550.0,1.02,0
+iPhone 17 Pro,0,Nou,1,4.8,24,aprilie 2022,5690.0,0.9563025210084034,1
+iPhone 13 Pro Max,256,Utilizat,5,4.7,29,octombrie 2023,2300.0,0.9787234042553191,0
+iPhone 15,128,Utilizat,3,4.8,720,iunie 2018,1950.0,0.8480104370515329,0
+iPhone 17 Pro Max,0,Nou,1,5.0,5,februarie 2025,4399.0,0.6284285714285714,1
+iPhone 15 Pro,128,Utilizat,5,5.0,31,ianuarie 2022,359999.0,133.33296296296297,0
+iPhone 15,0,Utilizat,3,5.0,61,februarie 2019,2200.0,1.0232558139534884,0
+iPhone 16 Pro,0,Utilizat,8,5.0,3,martie 2012,3450.0,1.0,0
+iPhone 16,128,Utilizat,3,4.8,720,iunie 2018,3000.0,1.0085728693898135,0
+iPhone 1st gen,128,Utilizat,5,5.0,55,iulie 2020,2950.0,1.2826086956521738,0
+iPhone 6S Plus,0,Utilizat,4,0.0,0,iulie 2025,1000.0,1.0,1
+iPhone 15 Pro Max,256,Utilizat,1,4.9,67,martie 2023,3500.0,0.9722222222222222,1
+iPhone 11,128,Utilizat,5,4.7,29,octombrie 2023,850.0,1.0303030303030303,0
+iPhone 14,128,Utilizat,5,4.7,29,octombrie 2023,1500.0,0.8337965536409117,1
+iPhone 15 Pro,256,Utilizat,5,4.7,29,octombrie 2023,3300.0,1.0,0
+iPhone 5S,32,Utilizat,3,0.0,0,octombrie 2025,300.0,1.0,1
+iPhone 15,128,Nou,8,5.0,20,decembrie 2020,3199.0,1.2545098039215685,0
+iPhone 17 Pro Max,512,Nou,2,4.7,42,martie 2017,8600.0,1.0,0
+iPhone 17 Pro,256,Nou,1,5.0,1,decembrie 2024,6400.0,1.0281124497991967,1
+iPhone 16 Pro,256,Nou,3,0.0,0,octombrie 2025,4899.0,1.2481528662420383,1
+iPhone 16,128,Utilizat,5,4.7,29,octombrie 2023,2900.0,0.9749537737434864,0
+iPhone 17 Pro,0,Nou,5,0.0,0,ianuarie 2023,6000.0,1.0084033613445378,1
+iPhone 17 Pro Max,0,Nou,4,5.0,340,octombrie 2013,7800.0,1.1142857142857143,0
+iPhone 1st gen,128,Utilizat,5,5.0,55,iulie 2020,2250.0,0.9782608695652174,0
+iPhone 14 Pro Max,128,Utilizat,5,4.7,29,octombrie 2023,2700.0,1.0188679245283019,0
+iPhone 15,256,Utilizat,5,4.8,720,iunie 2018,2400.0,0.96,0
+iPhone 14,128,Utilizat,5,4.7,29,octombrie 2023,2600.0,1.4452473596442468,0
+iPhone 16 Pro Max,0,Utilizat,6,4.9,19,ianuarie 2025,3800.0,0.7378640776699029,1
+iPhone 13,128,Utilizat,5,4.7,29,octombrie 2023,1600.0,1.0,0
+iPhone 12 Pro,128,Utilizat,5,0.0,0,iunie 2019,1599.0,1.0,1
+iPhone 16,128,Nou,3,4.9,35,februarie 2016,3500.0,1.044776119402985,0
+iPhone 17 Pro,0,Nou,8,5.0,69,decembrie 2022,8299.0,1.3947899159663866,0
+iPhone 14,128,Utilizat,5,4.7,29,octombrie 2023,1800.0,1.000555864369094,0
+iPhone 16,256,Nou,2,5.0,2,octombrie 2025,3850.0,1.1578947368421053,0
+iPhone 14 Pro,128,Nou,8,5.0,1,martie 2021,2300.0,0.9787234042553191,0
+iPhone 16,0,Nou,1,5.0,340,octombrie 2013,3499.0,1.0,1
+,256,Utilizat,5,4.7,29,octombrie 2023,1600.0,,1
+iPhone 15 Pro Max,256,Utilizat,5,4.7,29,octombrie 2023,3700.0,1.0277777777777777,0
+iPhone 15 Pro,128,Utilizat,5,4.7,29,octombrie 2023,2800.0,1.037037037037037,0
+iPhone 16,0,Nou,1,4.5,251,septembrie 2020,3400.0,0.9717062017719348,1
+iPhone 16,128,Nou,1,5.0,114,iulie 2016,3200.0,0.9552238805970149,1
+iPhone 16 Pro Max,0,Utilizat,6,5.0,13,iunie 2013,5200.0,1.0097087378640777,0
+iPhone 17 Pro Max,0,Nou,2,0.0,0,martie 2020,6700.0,0.9571428571428572,1
+iPhone 17 Pro Max,256,Nou,1,5.0,6,iunie 2017,6800.0,0.9855072463768116,1
+iPhone 17 Pro Max,256,Nou,1,4.9,35,februarie 2016,7000.0,1.0144927536231885,1
+iPhone 13,0,Utilizat,3,4.5,251,septembrie 2020,1100.0,1.0,0
+iPhone 14 Pro,128,Nou,7,5.0,1,martie 2021,2400.0,1.0212765957446808,0
+iPhone 17 Pro Max,0,Nou,1,0.0,0,noiembrie 2025,850.0,0.12142857142857143,1
+iPhone 15,256,Utilizat,5,4.7,29,octombrie 2023,2500.0,1.0,0
+iPhone 15,128,Utilizat,8,4.9,18,februarie 2016,2319.0,1.0084801043705154,0
+iPhone 14 Pro Max,256,Utilizat,7,4.5,251,septembrie 2020,2600.0,1.0,0
+iPhone 14,128,Utilizat,5,4.7,29,octombrie 2023,2000.0,1.1117287381878822,0
+iPhone 15 Pro Max,256,Utilizat,5,4.7,29,octombrie 2023,3700.0,1.0277777777777777,0
+iPhone 1st gen,256,Utilizat,2,5.0,55,iulie 2020,4650.0,1.0163934426229508,0
+iPhone 1st gen,256,Nou,3,4.2,5,noiembrie 2023,7200.0,0.993103448275862,0
+iPhone 13 Pro Max,128,Utilizat,5,5.0,61,februarie 2019,2000.0,1.0,0
+iPhone 16,128,Utilizat,7,4.9,18,februarie 2016,1979.0,0.6653219028408136,1
+iPhone 15,128,Utilizat,5,4.7,29,octombrie 2023,2100.0,0.91324200913242,0
+iPhone 11 Pro Max,64,Utilizat,5,4.7,29,octombrie 2023,1100.0,1.0,0
+iPhone 14,128,Utilizat,7,4.9,18,februarie 2016,1799.0,1.0,0
+iPhone 1st gen,128,Utilizat,5,5.0,55,iulie 2020,2500.0,1.0869565217391304,0
+iPhone 1st gen,0,Nou,4,4.6,38,noiembrie 2021,6699.0,0.9436540357796873,0
+iPhone 15,256,Utilizat,5,4.7,29,octombrie 2023,2500.0,1.0,0
+iPhone 16,128,Utilizat,5,4.7,29,octombrie 2023,3050.0,1.025382417212977,0
+iPhone 12,64,Nou,7,5.0,1,martie 2021,1000.0,1.0,0
+iPhone 13 Pro,128,Utilizat,5,4.7,29,octombrie 2023,2000.0,1.0,0
+iPhone XR,64,Utilizat,8,4.9,33,iulie 2025,599.0,1.0,0
+iPhone 12 Mini,128,Utilizat,6,5.0,31,ianuarie 2022,1199.0,1.4105882352941177,0
+iPhone 17 Pro Max,256,Nou,1,4.9,35,februarie 2016,7000.0,1.0144927536231885,1
+iPhone 13,128,Utilizat,7,0.0,0,iunie 2019,1499.0,0.936875,1
+iPhone 14 Pro Max,128,Utilizat,5,4.7,29,octombrie 2023,2600.0,0.9811320754716981,0
+iPhone 15,0,Utilizat,4,4.8,720,iunie 2018,2200.0,1.0232558139534884,0
+iPhone 15,0,Utilizat,5,4.8,720,iunie 2018,2150.0,1.0,0
+iPhone 16 Pro,256,Nou,7,5.0,1,martie 2021,3600.0,0.9171974522292994,0
+iPhone 13,512,Utilizat,5,4.7,29,octombrie 2023,1950.0,1.0,0
+iPhone 6S,0,Utilizat,5,0.0,0,februarie 2025,250.0,1.0,1
+iPhone 13 Pro,0,Utilizat,8,5.0,2,august 2015,2100.0,1.6153846153846154,0
+iPhone 16,128,Utilizat,8,5.0,69,decembrie 2022,3199.0,1.0754748697260044,0
+iPhone 1st gen,256,Utilizat,5,4.7,29,octombrie 2023,4500.0,0.9836065573770492,0
+iPhone 17 Pro,512,Nou,1,4.9,35,februarie 2016,7500.0,1.0,1
+iPhone 17 Pro Max,0,Nou,3,5.0,61,februarie 2019,7300.0,1.042857142857143,0
+iPhone 16e,256,Nou,2,5.0,61,februarie 2019,2600.0,1.0,0
+iPhone 6,0,Utilizat,6,0.0,0,decembrie 2020,90.0,1.0,1
+iPhone 12 Pro Max,128,Utilizat,5,4.7,29,octombrie 2023,1700.0,1.0,0
+iPhone 17,0,Utilizat,1,0.0,0,august 2024,50.0,0.011111111111111112,1
+iPhone 14 Pro Max,256,Utilizat,5,4.7,29,octombrie 2023,2800.0,1.0769230769230769,0
+iPhone 14 Pro Max,0,Utilizat,3,5.0,31,octombrie 2020,2400.0,1.0,0
+iPhone 13 Pro Max,256,Utilizat,5,4.7,29,octombrie 2023,2350.0,1.0,0
+iPhone 16 Pro,256,Nou,4,0.0,0,septembrie 2025,4200.0,1.070063694267516,1
+iPhone 14,128,Utilizat,6,0.0,0,mai 2019,1500.0,0.8337965536409117,1
+iPhone 15,128,Utilizat,3,0.0,0,octombrie 2025,2250.0,0.9784735812133072,1
+iPhone 17 Air,0,Nou,2,5.0,61,februarie 2019,4700.0,1.0,1
+iPhone 1st gen,256,Nou,3,4.2,5,noiembrie 2023,7300.0,1.006896551724138,0
+iPhone 1st gen,256,Nou,3,0.0,0,mai 2023,6000.0,0.8275862068965517,1
+iPhone 12 Mini,64,Utilizat,5,4.7,29,octombrie 2023,1000.0,1.0,0
+iPhone 16,128,Utilizat,2,4.8,49,octombrie 2023,2650.0,0.8909060346276685,1
+iPhone 15 Pro Max,0,Utilizat,3,4.5,251,septembrie 2020,2600.0,0.896551724137931,1
+iPhone 16e,128,Nou,1,4.9,92,noiembrie 2021,2300.0,1.0,1
+iPhone 15 Pro Max,0,Utilizat,3,5.0,31,octombrie 2020,3300.0,1.1379310344827587,0
+iPhone X,64,Utilizat,4,4.7,29,octombrie 2023,700.0,1.0,0
+iPhone 14,128,Utilizat,4,4.8,720,iunie 2018,1500.0,0.8337965536409117,0
+iPhone 13,128,Utilizat,3,0.0,0,octombrie 2025,1600.0,1.0,1
+iPhone 14 Plus,128,Utilizat,5,4.7,29,octombrie 2023,2100.0,1.0,0
+iPhone 15 Plus,128,Utilizat,2,4.7,42,martie 2017,2650.0,1.1046269278866194,0
+iPhone 17 Pro,256,Utilizat,1,5.0,1,decembrie 2024,6400.0,1.0,1
+iPhone 17,0,Utilizat,3,4.5,251,septembrie 2020,4500.0,1.0,0
+iPhone 16,128,Utilizat,6,0.0,0,iunie 2019,2999.0,1.00823667843335,1
+iPhone 16,256,Nou,1,4.8,49,octombrie 2023,2800.0,0.8421052631578947,1
+iPhone 15,0,Nou,1,5.0,114,iulie 2016,2800.0,0.9336445481827276,1
+iPhone 14 Pro Max,0,Utilizat,3,4.5,251,septembrie 2020,2400.0,1.0,0
+iPhone 14,128,Utilizat,5,4.7,29,octombrie 2023,1800.0,1.000555864369094,0
+iPhone 15 Pro Max,256,Utilizat,6,5.0,114,iulie 2016,3000.0,0.8333333333333334,0
+iPhone 1st gen,256,Utilizat,3,4.7,29,octombrie 2023,7400.0,1.6174863387978142,0
+iPhone 15,0,Utilizat,3,5.0,9,noiembrie 2016,1900.0,0.8837209302325582,1
+iPhone 15 Pro Max,256,Utilizat,8,0.0,0,mai 2019,2950.0,0.8194444444444444,1
+iPhone 1st gen,128,Utilizat,5,5.0,55,iulie 2020,2300.0,1.0,0
+iPhone 12 Mini,64,Utilizat,4,4.7,39,mai 2024,1000.0,1.0,0
+iPhone 1st gen,256,Nou,3,4.2,5,noiembrie 2023,7500.0,1.0344827586206897,0
+iPhone 17,256,Nou,1,0.0,0,iunie 2019,4199.0,1.0,1
+iPhone 14 Pro,128,Utilizat,4,4.9,87,martie 2013,1900.0,0.76,0
+iPhone 13,128,Utilizat,5,4.7,29,octombrie 2023,1600.0,1.0,0
+iPhone 17 Pro,0,Nou,2,5.0,5,februarie 2025,5900.0,0.9915966386554622,1
+iPhone 1st gen,256,Utilizat,5,5.0,55,iulie 2020,3300.0,0.7213114754098361,0
+iPhone 16,0,Utilizat,2,4.8,720,iunie 2018,2850.0,0.9661016949152542,1
+iPhone 15,0,Nou,4,5.0,340,octombrie 2013,2999.0,1.0,0
+iPhone 15,128,Utilizat,5,4.0,1,septembrie 2014,2399.0,1.0432702761469885,0
+iPhone 14,0,Utilizat,2,4.8,720,iunie 2018,1600.0,1.0,1
+iPhone 13 Pro,128,Utilizat,5,4.7,29,octombrie 2023,2000.0,1.0,0
+iPhone 17 Pro,512,Nou,3,0.0,0,octombrie 2022,6500.0,0.8666666666666667,1
+iPhone 17 Pro,256,Nou,1,4.7,42,martie 2017,6250.0,1.0040160642570282,1
+iPhone 15 Pro Max,512,Utilizat,5,5.0,61,februarie 2019,3500.0,1.0,0
+iPhone 17 Pro,512,Nou,1,4.9,35,februarie 2016,7700.0,1.0266666666666666,1
+iPhone 16 Pro Max,256,Utilizat,6,4.8,720,iunie 2018,3900.0,0.9176470588235294,0
+iPhone 14 Pro Max,128,Nou,5,4.7,29,octombrie 2023,2800.0,1.0,0
+iPhone 14 Pro,128,Utilizat,5,4.8,720,iunie 2018,2100.0,0.84,0
+iPhone 14 Pro Max,128,Utilizat,6,0.0,0,septembrie 2025,2050.0,0.7735849056603774,1
+iPhone 17 Pro Max,0,Utilizat,5,5.0,61,februarie 2019,7000.0,1.0606060606060606,0
+iPhone 16,0,Utilizat,2,4.8,720,iunie 2018,2950.0,1.0,1
+iPhone 1st gen,0,Utilizat,5,5.0,55,iulie 2020,3850.0,1.0,0
+iPhone 15 Pro,512,Utilizat,5,4.9,35,februarie 2016,3499.0,1.0,0
+iPhone 13 Pro Max,256,Utilizat,5,4.7,29,octombrie 2023,2350.0,1.0,0
+iPhone 12,128,Utilizat,5,4.7,29,octombrie 2023,1200.0,1.0,0
+iPhone 15 Pro,0,Utilizat,8,0.0,0,octombrie 2015,2700.0,1.148936170212766,1
+iPhone 16 Pro Max,0,Nou,2,5.0,61,februarie 2019,7000.0,1.0,1
+iPhone 15 Plus,128,Utilizat,8,0.0,0,ianuarie 2021,2399.0,1.0,1
+iPhone 16 Pro Max,256,Utilizat,7,5.0,114,iulie 2016,4250.0,1.0,0
+iPhone 15 Pro Max,0,Utilizat,5,5.0,107,noiembrie 2022,2400.0,0.8275862068965517,1
+iPhone 16,512,Nou,1,5.0,114,iulie 2016,3000.0,1.0,1
+iPhone 16 Pro,128,Utilizat,5,4.7,39,mai 2024,3300.0,0.9167939991665509,0
+iPhone 16,128,Utilizat,5,4.7,29,octombrie 2023,3150.0,1.059001512859304,0
+iPhone 16,128,Utilizat,6,5.0,114,iulie 2016,3000.0,1.0085728693898135,0
+iPhone 17 Pro,256,Nou,8,0.0,0,martie 2024,5660.0,0.9092369477911647,1
+iPhone 15 Pro,128,Utilizat,8,0.0,0,decembrie 2012,2699.0,0.9996296296296296,1
+iPhone 13 Mini,128,Utilizat,5,4.7,29,octombrie 2023,1400.0,1.1570247933884297,0
+iPhone 12 Pro,256,Utilizat,5,5.0,61,februarie 2019,1600.0,1.0,0
+iPhone 16 Pro,128,Utilizat,5,0.0,0,iunie 2019,3899.0,1.0832060008334492,1
+iPhone 14 Pro Max,128,Utilizat,5,5.0,61,februarie 2019,2500.0,0.9433962264150944,0
+iPhone 14 Pro Max,128,Utilizat,4,4.7,39,mai 2024,2700.0,1.0188679245283019,0
+iPhone 15,128,Utilizat,6,4.8,91,decembrie 2021,1699.0,0.7388562731028484,0
+iPhone 1st gen,64,Utilizat,5,5.0,55,iulie 2020,650.0,1.0,0
+iPhone 16,128,Utilizat,4,4.8,720,iunie 2018,2950.0,0.9917633215666498,0
+iPhone 1st gen,256,Utilizat,3,4.7,29,octombrie 2023,7450.0,1.6284153005464481,0
+iPhone 1st gen,256,Utilizat,5,5.0,55,iulie 2020,3550.0,0.7759562841530054,0
+iPhone 15 Pro,0,Utilizat,2,0.0,0,noiembrie 2022,2000.0,0.851063829787234,1
+iPhone 12 Pro Max,128,Utilizat,5,4.7,29,octombrie 2023,1700.0,1.0,0
+iPhone 12,128,Utilizat,3,0.0,0,octombrie 2025,1200.0,1.0,1
+iPhone 15 Plus,0,Utilizat,8,0.0,0,iulie 2020,2350.0,0.9306930693069307,1
+iPhone 16 Pro Max,256,Nou,7,5.0,20,decembrie 2020,5599.0,1.0980584428319278,0
+iPhone 16,0,Utilizat,4,0.0,0,octombrie 2022,3450.0,1.1694915254237288,1
+iPhone 17 Pro Max,256,Nou,1,0.0,0,noiembrie 2025,6700.0,0.9710144927536232,1
+iPhone 1st gen,256,Utilizat,3,4.7,29,octombrie 2023,6300.0,1.3770491803278688,0
+iPhone SE,64,Utilizat,8,4.9,33,iulie 2025,360.0,1.0,0
+iPhone 15,128,Utilizat,6,0.0,0,august 2015,2300.0,1.000217438573603,1
+iPhone 13 Pro,128,Utilizat,5,4.7,29,octombrie 2023,2000.0,1.0,0
+iPhone 14 Plus,0,Utilizat,5,5.0,13,iunie 2013,1450.0,1.0,0
+iPhone 15 Pro Max,256,Utilizat,6,5.0,114,iulie 2016,3400.0,0.9444444444444444,0
+iPhone 14 Pro,128,Utilizat,5,4.7,29,octombrie 2023,2500.0,1.0,0
+,0,Utilizat,6,0.0,0,iunie 2021,1100.0,,1
+iPhone 15 Pro Max,256,Utilizat,5,4.7,29,octombrie 2023,3600.0,1.0,0
+iPhone 16,0,Nou,3,0.0,0,decembrie 2017,3550.0,1.014575593026579,1
+iPhone 14 Pro,512,Utilizat,2,5.0,61,februarie 2019,2600.0,1.0,0
+iPhone 15,128,Utilizat,6,0.0,0,iunie 2019,2299.0,0.999782561426397,1
+iPhone 16,256,Utilizat,2,4.8,49,octombrie 2023,2750.0,1.0,1
+iPhone 17 Pro Max,512,Nou,3,0.0,0,aprilie 2020,0.0,0.0,1
+iPhone 16,128,Utilizat,8,0.0,0,mai 2024,2800.0,0.9413346780971592,1
+iPhone 15,128,Utilizat,8,0.0,0,decembrie 2012,1750.0,0.76103500761035,1
+iPhone 14,128,Utilizat,6,5.0,114,iulie 2016,1700.0,0.9449694274596998,0
+iPhone 16 Pro Max,256,Utilizat,2,5.0,5,februarie 2025,5299.0,1.2468235294117647,0
+iPhone 15 Pro Max,0,Utilizat,8,4.7,11,septembrie 2013,3200.0,1.103448275862069,0
+iPhone 12,0,Utilizat,3,0.0,0,august 2025,680.0,0.8095238095238095,1
+iPhone 17 Pro,256,Nou,3,4.7,29,octombrie 2023,6200.0,0.9959839357429718,0
+iPhone 17 Pro Max,256,Nou,2,5.0,5,februarie 2025,6900.0,1.0,0
+iPhone 15 Pro Max,256,Utilizat,7,4.9,18,februarie 2016,3709.0,1.0302777777777778,0
+,0,Utilizat,1,4.5,251,septembrie 2020,6400.0,,1
+iPhone 12 Pro,256,Utilizat,5,4.7,29,octombrie 2023,1600.0,1.0,0
+iPhone 16 Pro Max,256,Utilizat,7,5.0,114,iulie 2016,4250.0,1.0,0
+iPhone 16 Pro Max,256,Utilizat,7,5.0,114,iulie 2016,4250.0,1.0,0
+iPhone 17 Pro Max,0,Utilizat,4,0.0,0,decembrie 2017,6200.0,0.9393939393939394,1
+iPhone 16 Pro,128,Utilizat,7,5.0,114,iulie 2016,3300.0,0.9167939991665509,0
+iPhone 11 Pro,256,Utilizat,5,4.7,29,octombrie 2023,1250.0,1.0,0
+iPhone 12,64,Utilizat,5,4.7,29,octombrie 2023,1100.0,1.2235817575083425,0
+iPhone 14,128,Utilizat,5,4.7,29,octombrie 2023,2000.0,1.1117287381878822,0
+iPhone 1st gen,128,Utilizat,5,5.0,55,iulie 2020,3450.0,1.5,0
+,256,Nou,1,4.7,42,martie 2017,7000.0,,1
+iPhone 14 Pro Max,128,Utilizat,7,4.9,18,februarie 2016,2939.0,1.109056603773585,0
+iPhone 13 Pro,128,Utilizat,5,4.7,29,octombrie 2023,2050.0,1.025,0
+iPhone 16 Pro,256,Nou,7,0.0,0,august 2015,4500.0,1.1464968152866242,1
+iPhone 16,128,Utilizat,6,5.0,114,iulie 2016,2950.0,0.9917633215666498,0
+iPhone 1st gen,128,Utilizat,5,5.0,55,iulie 2020,2200.0,0.9565217391304348,0
+iPhone 13,128,Utilizat,8,0.0,0,august 2015,1000.0,0.625,1
+iPhone 13,256,Utilizat,8,0.0,0,decembrie 2012,1299.0,1.0,1
+iPhone 14,128,Utilizat,4,0.0,0,aprilie 2025,1400.0,0.7782101167315175,1
+iPhone 12 Mini,128,Utilizat,7,0.0,0,noiembrie 2025,850.0,1.0,1
+iPhone 16 Pro Max,256,Utilizat,8,0.0,0,noiembrie 2023,4200.0,0.9882352941176471,1
+iPhone 16 Pro Max,256,Utilizat,3,0.0,0,octombrie 2025,4350.0,1.0235294117647058,1
+,256,Utilizat,5,0.0,0,iunie 2019,3499.0,,1
+iPhone 17 Pro Max,0,Nou,8,5.0,69,decembrie 2022,11999.0,1.7141428571428572,0
+iPhone 16 Pro Max,0,Utilizat,7,0.0,0,mai 2019,5150.0,1.0,1
+iPhone 17 Pro Max,256,Nou,2,4.0,4,septembrie 2022,6750.0,0.9782608695652174,0
+iPhone 13,128,Utilizat,3,5.0,2,iunie 2025,1400.0,0.875,0
+iPhone 15 Plus,128,Utilizat,6,4.8,91,decembrie 2021,2299.0,0.9583159649854106,0
+iPhone 13 Pro,256,Utilizat,7,5.0,114,iulie 2016,2000.0,0.975609756097561,0
+iPhone 15,128,Utilizat,8,4.7,42,martie 2017,2400.0,1.0437051532941943,0
+iPhone 1st gen,0,Utilizat,2,5.0,55,iulie 2020,8200.0,2.1298701298701297,1
+iPhone 12,64,Utilizat,8,0.0,0,decembrie 2012,899.0,1.0,1
+iPhone 17 Air,0,Nou,1,4.5,251,septembrie 2020,4700.0,1.0,1
+iPhone 16 Pro Max,256,Utilizat,8,0.0,0,martie 2020,4000.0,0.9411764705882353,1
+iPhone 17 Pro,512,Nou,3,4.9,35,februarie 2016,7500.0,1.0,0
+iPhone 12 Pro Max,512,Utilizat,5,5.0,61,februarie 2019,1600.0,1.0,0
+iPhone 15 Plus,0,Utilizat,4,5.0,61,februarie 2019,2700.0,1.0693069306930694,0
+iPhone 1st gen,64,Utilizat,5,5.0,55,iulie 2020,500.0,0.7692307692307693,0
+iPhone 13,128,Utilizat,5,4.7,29,octombrie 2023,1600.0,1.0,0
+iPhone 15 Pro,128,Utilizat,6,5.0,114,iulie 2016,2800.0,1.037037037037037,0
+iPhone 13,128,Utilizat,5,4.7,29,octombrie 2023,1600.0,1.0,0
+,256,Utilizat,3,4.8,720,iunie 2018,1800.0,,0
+iPhone 14 Pro,128,Utilizat,5,4.7,29,octombrie 2023,2500.0,1.0,0
+iPhone 14 Pro Max,256,Utilizat,4,4.8,720,iunie 2018,2550.0,0.9807692307692307,0
+iPhone 15 Pro Max,256,Utilizat,3,0.0,0,octombrie 2025,3600.0,1.0,1
+iPhone 12 Pro Max,256,Utilizat,3,0.0,0,noiembrie 2025,0.0,,1
+iPhone 16 Pro Max,256,Utilizat,7,0.0,0,august 2015,4300.0,1.011764705882353,1
