@@ -46,5 +46,5 @@ Navigate to the project folder
 ```bash
 python app.py
 ```
-Open your browser and go to: http://127.0.0.1:5000
+Open your browser and go to the address provided
 Paste an iPhone ad link and click "Verifică Anunțul"
