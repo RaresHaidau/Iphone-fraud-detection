@@ -40,11 +40,11 @@ Since the scraper uses Playwright, you also need to install the necessary browse
 playwright install chromium
 ```
 ## **Running the Application**
-**Navigate to the project folder
+Navigate to the project folder
 
 ## **Run the Flask server:**
 ```bash
 python app.py
 ```
 **Open your browser and go to: http://127.0.0.1:5000
-**Paste an iPhone ad link and click "Verifică Anunțul"
+Paste an iPhone ad link and click "Verifică Anunțul"
