@@ -1,0 +1,70 @@
+<!DOCTYPE html>
+<html lang="ro">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Detector Fraudă iPhone OLX</title>
+    <style>
+        body { font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif; background-color: #f0f2f5; display: flex; justify-content: center; padding-top: 50px; }
+        .card { background: white; width: 600px; padding: 30px; border-radius: 12px; box-shadow: 0 4px 15px rgba(0,0,0,0.1); }
+        h1 { text-align: center; color: #002f34; margin-bottom: 25px; }
+        input[type="text"] { width: 100%; padding: 15px; border: 2px solid #ddd; border-radius: 8px; font-size: 16px; box-sizing: border-box; }
+        input[type="text"]:focus { border-color: #002f34; outline: none; }
+        .btn { width: 100%; padding: 15px; background-color: #002f34; color: white; border: none; border-radius: 8px; font-size: 18px; cursor: pointer; margin-top: 15px; transition: background 0.3s; }
+        .btn:hover { background-color: #00555f; }
+        
+        .result-box { margin-top: 30px; padding: 20px; border-radius: 8px; text-align: center; }
+        .fraud { background-color: #ffebee; color: #c62828; border: 1px solid #ffcdd2; }
+        .safe { background-color: #e8f5e9; color: #2e7d32; border: 1px solid #c8e6c9; }
+        
+        .details-table { width: 100%; margin-top: 20px; border-collapse: collapse; font-size: 14px; }
+        .details-table td { padding: 8px; border-bottom: 1px solid #eee; }
+        .details-table td:first-child { font-weight: bold; color: #555; }
+        
+        .loader { display: none; text-align: center; margin-top: 15px; color: #666; }
+    </style>
+    <script>
+        function showLoader() {
+            document.querySelector('.loader').style.display = 'block';
+            document.querySelector('.result-box')?.style.display = 'none';
+        }
+    </script>
+</head>
+<body>
+
+<div class="card">
+    <h1>🕵️ Detector Fraudă iPhone</h1>
+    
+    <form method="POST" onsubmit="showLoader()">
+        <input type="text" name="url" placeholder="Lipește link-ul anunțului OLX aici..." value="{{ url }}" required>
+        <button type="submit" class="btn">Verifică Anunțul</button>
+    </form>
+
+    <div class="loader">🔄 Se analizează anunțul... (durează 5-10 secunde)</div>
+
+    {% if data %}
+        {% if data.error %}
+            <div class="result-box fraud">
+                <h3>Eroare</h3>
+                <p>{{ data.error }}</p>
+            </div>
+        {% else %}
+            <div class="result-box {{ 'fraud' if data.is_fraud else 'safe' }}">
+                <h2>{{ data.result }}</h2>
+            </div>
+
+            <table class="details-table">
+                <tr><td>Model Detectat:</td><td>{{ data.details.phone_model }}</td></tr>
+                <tr><td>Memorie:</td><td>{{ data.details.memory_size }} GB</td></tr>
+                <tr><td>Stare:</td><td>{{ data.details.condition }}</td></tr>
+                <tr><td>Preț extras:</td><td>{{ data.details.clean_price }} RON</td></tr>
+                <tr><td>Rating Vânzător:</td><td>{{ data.details.publisher_rating }} / 5</td></tr>
+                <tr><td>Nr. Ratinguri:</td><td>{{ data.details.publisher_num_ratings }}</td></tr>
+                <tr><td>Scor Preț (Ratio):</td><td>{{ "%.2f"|format(data.details.price_ratio) }}</td></tr>
+            </table>
+        {% endif %}
+    {% endif %}
+</div>
+
+</body>
+</html>
