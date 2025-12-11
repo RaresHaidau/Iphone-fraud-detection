@@ -47,4 +47,5 @@ Navigate to the project folder
 python app.py
 ```
 Open your browser and go to the address provided
+
 Paste an iPhone ad link and click "Verifică Anunțul"
