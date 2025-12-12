@@ -4,7 +4,7 @@ import joblib
 import pandas as pd
 from playwright.sync_api import sync_playwright
 
-# Importăm funcțiile din fișierele tale existente
+
 from scraper import scrape_ad_details
 # Asta va încărca clasa PhoneFraudParser direct din parser.ipynb
 from parser import PhoneFraudParser 
@@ -44,7 +44,7 @@ def predict_web(url):
         browser = p.chromium.launch(headless=True)
         page = browser.new_page()
         try:
-            # Apelăm funcția ta din scraper.py
+            # Apelăm funcția din scraper.py
             scraped_data = scrape_ad_details(url, page)
         except Exception as e:
             print(f"Scraping error: {e}")
