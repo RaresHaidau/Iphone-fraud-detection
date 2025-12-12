@@ -22,11 +22,9 @@ def get_rating_with_playwright(page, ad_url):
     try:
         page.goto(ad_url, timeout=60000)
         
-        # Selectorul ambițios, dar care va fi filtrat cu .nth(0)
-        # Găsește TOATE tagurile <p> din widget-ul principal (găsește 2)
+        
         AMBIGUOUS_SELECTOR = "[data-testid='main'] [data-testid='user-score-widget'] p"
         
-        # Obținem locatorul pentru PRIMUL element din listă, care este scorul (4.7 / 5)
         rating_locator = page.locator(AMBIGUOUS_SELECTOR).nth(0)
         
         # Așteptăm ca acest locator unic să fie vizibil și populat cu text
@@ -78,8 +76,6 @@ def get_ad_links_from_page(url):
 
     return ad_links
 
-
-# ---------------- LOGICĂ DE VIEWS ----------------
 def get_number_of_ratings_with_playwright(page, ad_url):
     """
     Extrage numărul de ratinguri.
@@ -172,9 +168,6 @@ def scrape_ad_details(ad_url, page):
 
 
     return {
-   # 'URL': ad_url,
-    #'Title': title,
-    #'Price': price,
     'Summary': f"URL: {ad_url}\n"
                f"Title:{title}\n" 
                f"Price: {price}\n"
@@ -205,9 +198,9 @@ def save_to_csv(data, filename="olx_ads_data.csv"):
             writer.writeheader()
             writer.writerows(data)
 
-        print(f"\n✅ Datele au fost salvate cu succes în '{filename}'")
+        print(f"\n Datele au fost salvate cu succes în '{filename}'")
     except Exception as e:
-        print(f"\n❌ Eroare la salvarea fișierului CSV: {e}")
+        print(f"\n Eroare la salvarea fișierului CSV: {e}")
 
 
 # ---------------- MAIN ----------------
